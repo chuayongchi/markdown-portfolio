@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+#Chua Yong Chi
+##student from UPM
+######bachelor computer science with computer system
+####CGPA 3.627
