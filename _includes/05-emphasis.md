@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*i like to talk to Callista*
+**She makes me have a good feeling**
+_i wish i could continue **this feeling** with her _
+__forever__
